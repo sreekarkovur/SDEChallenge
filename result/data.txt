@@ -1,0 +1,50 @@
+
+===================================================================
+userIP - 142.127.229.46
+time - 2019-10-20 00:21:07
+sessionID - 6bbda3cd970ee5f7eb60f7c9ee1dedff
+userBrowser - Chrome
+userOS - Windows
+userCity - Niagara Falls
+userCountry - Canada
+userContinent - North America
+
+===================================================================
+userIP - 142.127.229.46
+time - 2019-10-20 00:21:42
+sessionID - 2280b6b0b15d4d0bc68bbbf72048dabb
+userBrowser - Chrome
+userOS - Windows
+userCity - Niagara Falls
+userCountry - Canada
+userContinent - North America
+
+===================================================================
+userIP - 142.127.229.46
+time - 2019-10-20 00:22:17
+sessionID - 2fe73eb2a034fbaa35546e4f9d64e4a9
+userBrowser - MSEdge
+userOS - Windows
+userCity - Niagara Falls
+userCountry - Canada
+userContinent - North America
+
+===================================================================
+userIP - 142.127.229.46
+time - 2019-10-20 00:28:17
+sessionID - 5fb1ef5fedda80a9cc922f5acf27db9a
+userBrowser - MSEdge
+userOS - Windows
+userCity - Niagara Falls
+userCountry - Canada
+userContinent - North America
+
+===================================================================
+userIP - 142.127.229.46
+time - 2019-10-20 00:28:20
+sessionID - 511f300f51a5e7574d6570416176663b
+userBrowser - MSEdge
+userOS - Windows
+userCity - Niagara Falls
+userCountry - Canada
+userContinent - North America
